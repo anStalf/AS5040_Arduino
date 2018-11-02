@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For as5040
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AS5040	KEYWORD1
+as5040	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+exec	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+data	LITERAL1
+angle	LITERAL1
+abs_angle	LITERAL1
+OCF	LITERAL1
+COF	LITERAL1
+LIN	LITERAL1
+magINC	LITERAL1
+magDEC	LITERAL1
